@@ -15,7 +15,7 @@ text-editor-app
 └── README.md          # Documentation for the project
 ```
 
-## Setup Instructions
+## Source Instructions
 
 1. Ensure you have Rust and Cargo installed on your machine.
 2. Clone the repository or download the project files.
